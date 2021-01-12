@@ -15,6 +15,7 @@
 			<div id="header">
 				<h2>Работа с Git</h2>
 				<p>Для начала работы нужно добавить файлы в проект.</p>
+				<p>Working with GIT commit and push commands.</p>
 			</div> 
 
 			<div id="content">
